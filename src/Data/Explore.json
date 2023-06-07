@@ -1,0 +1,67 @@
+{
+    "people":[
+        {
+            "title":"April Underwood",
+            "description":"Ceo and Founder, local Laboratory. co-founder"
+        },
+        {
+            "title":"Helna Price Hambercht",
+            "description":"Founder @drinkaus / Twitter @helena"
+        },
+        {
+            "title":"James Cham",
+            "description":"@jamescham"
+        }
+    ],
+    "conversation":[
+        {
+            "title":"Tech",
+            "description":"Venture Capital, DTC, AI, Saas Angel Investing"
+        },
+        {
+            "title":"Languages",
+            "description":"Venture Capital, DTC, AI, Saas Angel Investing"
+        },
+        {
+            "title":"Places",
+            "description":"Venture Capital, DTC, AI, Saas Angel Investing"
+        },
+        {
+            "title":"Identity",
+            "description":"Venture Capital, DTC, AI, Saas Angel Investing"
+        },
+        {
+            "title":"sport",
+            "description":"Venture Capital, DTC, AI, Saas Angel Investing"
+        },
+        {
+            "title":"Life",
+            "description":"Venture Capital, DTC, AI, Saas Angel Investing"
+        },
+        {
+            "title":"Knowladge",
+            "description":"Venture Capital, DTC, AI, Saas Angel Investing"
+        },
+        {
+            "title":"Hustle",
+            "description":"Venture Capital, DTC, AI, Saas Angel Investing"
+        },
+        {
+            "title":"Art",
+            "description":"Venture Capital, DTC, AI, Saas Angel Investing"
+        },
+        {
+            "title":"Entertainment",
+            "description":"Venture Capital, DTC, AI, Saas Angel Investing"
+        },
+        {
+            "title":"Hanging Out",
+            "description":"Venture Capital, DTC, AI, Saas Angel Investing"
+        },
+        {
+            "title":"Faith",
+            "description":"Venture Capital, DTC, AI, Saas Angel Investing"
+        }
+
+    ]
+}
